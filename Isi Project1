@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Motivasi 3</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header><h1>Berani untuk menuju kesuksesan</h1></header>
+        <main>
+            <img src="https://i.pinimg.com/736x/2b/df/f1/2bdff1a430a8c300c66cb614c233e49a.jpg" alt="Motivasi 3">
+            <p>"Keberanian adalah langkah pertama menuju kesuksesan."</p>
+        </main>
+        <footer><a href="indeks.html" class="nav-btn">Kembali</a></footer>
+    </div>
+</body>
+</html>
