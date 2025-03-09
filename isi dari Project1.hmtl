@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>motivasi 1</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header><h1>kesuksesan</h1></header>
+        <main>
+            <img src="https://i.pinimg.com/736x/0d/40/6c/0d406cf1e5769fcda10347803daa3ef8.jpg" alt="Motivasi 1">
+            <p>"Sukses tidak datang kepada orang yang hanya menunggu."</p>
+        </main>
+        <footer><a href="indeks.html" class="nav-btn">Kembali</a></footer>
+    </div>
+</body>
+</html>
